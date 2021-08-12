@@ -1,0 +1,6 @@
+0|1|ashwath|24|m|heart
+1|2|ranju|21|f|fever
+2|3|sofia|30|f|kidney
+3|4|raj|30|m|handfracture
+4|5|saniya|12|f|fever
+5|6|ramappa|60|m|lungcancer
